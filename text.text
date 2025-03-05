@@ -1,0 +1,12 @@
+git clone "url HTTPS" --- Git hubdan projectni yuklab olish. 
+ls, dir -- bu file ro'yxatini ko'rsatish
+cd  "nimadir" --- file ichiga kirish uchun ishlatiladi
+cd .. --- 1 ta orqaga chiqish uchun ishlatiladi
+cd --- file chiqib ketadi
+
+
+git init -- githubga branch qushadi yani master
+git add . --- filen githubga qushib beradi
+git commit -m "niamdir" --- bu oxirgi harakatni kursatib beradi
+git push -- projectni githubga qushib beradi
+git pull -- oxirgi harakatni kuchirib oladi 
